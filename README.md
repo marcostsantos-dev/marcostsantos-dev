@@ -2,5 +2,16 @@ Olá eu sou o Marcos T. S. Santos<br>
 Atualmente estou, em processo me migração de carreira, ingressando no universo FullStack.<br>
 Atualmente estou simultaneamente estudando Google Cloud Certified Associate Cloud Engineer pelo Senac e Python pelo Senai.<br>
 Contate-me no e-mail: marcos.ts.serdeira@gail.com<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcostsantos-dev&theme=dark&show_icons=true)](https://github.com/marcostsantos-dev/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcostsantos-dev&layout=donut&theme=dark)](https://github.com/marcostsantos-dev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcostsantos-dev&theme=dark&show_icons=true)](https://github.com/marcostsantos-dev/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcostsantos-dev&layout=donut&theme=dark)](https://github.com/marcostsantos-dev/github-readme-stats)<br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+          
+          
+</div>
 
