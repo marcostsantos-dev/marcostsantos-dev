@@ -41,10 +41,6 @@ Com uma vasta experiência em mecânica automotiva, estou empolgado com minha tr
  
 Sinta-se à vontade para conectar-se e explorar meus repositórios!
 
-[![Image of https://github.com/marcostsantos-dev/my-profile-views-counter](https://github.com/marcostsantos-dev/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/marcostsantos-dev/my-profile-views-counter)
-
-            
-                  
 
 
   
