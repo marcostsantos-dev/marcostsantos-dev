@@ -2,6 +2,8 @@
 
 Com uma vasta experiência em mecânica automotiva, estou empolgado com minha transição de carreira para a área de Tecnologia da Informação. Minha base técnica e a capacidade de resolver problemas complexos estão sendo aplicadas em meus novos estudos:
 
+- Graduação: Analise e Desenvolvimento de Sistemas.(cursando)
+
 - Cloud Computing: Formado no curso Engineer Cloud Powered by Google Cloud (SENAC), com foco em infraestrutura e serviços em nuvem.
 
 - Desenvolvimento: Atualmente aprimorando minhas habilidades em Python (SENAI).
