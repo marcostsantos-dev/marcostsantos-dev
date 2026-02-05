@@ -27,6 +27,9 @@ Com uma vasta experiência em mecânica automotiva, estou empolgado com minha tr
 
 
   🎯 Buscando Oportunidade
+  ## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcostserdeirasantos/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.ts.serdeira@gmail.com)
   <details>
 - Estou focado em construir um portfólio robusto e busco ativamente minha primeira oportunidade no mercado de TI. Meu objetivo é unir minha experiência prática em resolução de problemas com as tecnologias mais recentes para entregar soluções eficientes na área.
   </details>
