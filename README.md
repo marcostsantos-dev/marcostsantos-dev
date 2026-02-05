@@ -9,7 +9,7 @@ Com uma vasta experiência em mecânica automotiva, estou empolgado com minha tr
 - Dados: Possuo formação em Banco de Dados Relacional - SQL (SENAI).
 
 ![marcostsantos-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=marcostsantos-dev&show_icons=true&theme=dracula)
-![marcostsantos-dev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcostsantos-dev&layout=compact&langs_count=08&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostsantos-dev&layout=compact&langs_count=8&theme=dracula" alt="Top Langs" />
 
 <div>
   <img align = "center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
